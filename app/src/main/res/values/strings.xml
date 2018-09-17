@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="salut">Bonjour Monsieur</string>
+    <string name="hello_world_magueye">Hello World Magueye!</string>
+    <string name="title_activity_test_todolist">TestTodolistActivity</string>
+
+    <string-array name="class_list">
+        <item>MGG</item>
+        <item>Khoussa</item>
+        <item>Thiere</item>
+        <item>Ndiaté</item>
+        <item>Rolland</item>
+    </string-array>
+</resources>
